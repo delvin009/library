@@ -4,7 +4,7 @@ namespace Tests\Feature;
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
-use App\Book;
+// use App\Book;
 
 class BookReservationTest extends TestCase
 {

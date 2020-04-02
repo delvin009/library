@@ -8,7 +8,7 @@ use App\Book;
 
 class BookReservationTest extends TestCase
 {
-    //test
+    /** @test */ 
     public function a_book_can_be_added_to_the_library()
     {
         $response = $this->post('/books', [

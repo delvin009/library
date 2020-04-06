@@ -9,4 +9,5 @@ class Author extends Model
     protected $guarded = [];
 
     protected $dates = ['dob'];
+
 }
